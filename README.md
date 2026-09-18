@@ -1,6 +1,6 @@
 # Hi, I'm Sebastiano 👋
 
-I'm an NLP & Generative AI Engineer. I hold an MSc in Cognitive Science from CIMeC (University of Trento), where I worked on cognitive network science and LLMs.
+I'm an NLP & Generative AI Engineer at CEDAT85. I graduated with an MSc in Cognitive Science (Computational Linguistics and Cognition track, 110 cum laude) from CIMeC, University of Trento, where I worked on cognitive network science and LLMs.
 
 ## Research
 
