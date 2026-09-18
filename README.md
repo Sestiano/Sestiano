@@ -5,7 +5,7 @@ I'm an NLP & Generative AI Engineer at CEDAT85. I graduated with an MSc in Cogni
 ## Research
 
 - **[TEA Networks](https://github.com/MassimoStel/TEA_Networks)**: a Python library that implements Target-Event-Agent networks, a novel framework to measure bias through its actors, actions and consequences in English texts. I'm a co-developer. Preprint: [arXiv:2604.27673](https://arxiv.org/abs/2604.27673).
-- **[SpreadingAct](https://github.com/MassimoStel/SpreadingAct)**: extension of [SpreadPy](https://github.com/dsalvaz/SpreadPy) that I developed for my MSc thesis with Massimo Stella. It adds self-organised criticality and sandpile spreading activation on cognitive networks.
+- **[SpreadingAct](https://github.com/MassimoStel/SpreadingAct)**: extension of [SpreadPy](https://github.com/dsalvaz/SpreadPy) that I developed with Massimo Stella. It adds self-organised criticality and sandpile spreading activation on cognitive networks.
 - **[rlhf-word-association-networks](https://github.com/Sestiano/rlhf-word-association-networks)**: how RLHF changes the associative structure of LLMs (base vs chat) through free-association networks.
 
 ## NovaSayar
